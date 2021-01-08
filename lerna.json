@@ -1,7 +1,7 @@
 {
   "command": {
     "publish": {
-      "registry": "http://localhost:8081/repository/npmjs-group/"
+      "registry": "http://localhost:4873/"
     }
   },
   "packages": [
