@@ -1,4 +1,5 @@
 function add(a, b) {
+    console.log(`Adding a=${a} and b=${b}`)
     return a + b
 }
 
