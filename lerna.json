@@ -1,0 +1,11 @@
+{
+  "command": {
+    "publish": {
+      "registry": "http://localhost:8081/repository/npmjs-group/"
+    }
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "version": "0.0.0"
+}
